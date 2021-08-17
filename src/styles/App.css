@@ -1,0 +1,16 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.post__block {
+   width: 600px;
+   border: 2px solid blue;
+   margin: 10px auto;
+   padding: 15px;
+   /* display: flex; */
+}
+.post__description {
+   /* display: flex; */
+}
